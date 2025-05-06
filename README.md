@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Santos Virga
 
-<!--
-**santos3452/santos3452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software con pasión por crear soluciones tecnológicas eficientes y de impacto. Me interesa el desarrollo web, backend y de escritorio, especialmente usando herramientas modernas y buenas prácticas de ingeniería.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🟦 Java
+- 🌿 Spring Boot
+- 🅰️ Angular
+- ⚙️ C# / .NET
+- 🪟 Windows Forms
+- 🐘 PostgreSQL / MySQL /SqlServer
+- 🐳 Docker
+- 🌐 REST APIs
+- 🧾 Swagger / Postman
+- 🧪 JUnit
+
+## 📫 Contacto
+
+- 📧 santos.virga9@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/santosvirga/)  
+- 🐙 GitHub: [santosvirga](https://github.com/santosvirga)
+
+## 📈 GitHub Stats
+
+![Santos Virga's GitHub stats](https://github-readme-stats.vercel.app/api?username=santosvirga&show_icons=true&theme=dracula)
+
+---
+
+
